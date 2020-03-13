@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{CEB058D5-7584-423B-AA91-353277601F17}</ProjectGuid>
+    <ProjectGuid>{4C33DB24-0586-47CC-A147-214402EEF5BE}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>GuessNumberJohnO</RootNamespace>
     <AssemblyName>GuessNumberJohnO</AssemblyName>
@@ -46,16 +46,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="GuessNumberform.cs">
+    <Compile Include="GuessNumberForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="GuessNumberform.Designer.cs">
-      <DependentUpon>GuessNumberform.cs</DependentUpon>
+    <Compile Include="GuessNumberForm.Designer.cs">
+      <DependentUpon>GuessNumberForm.cs</DependentUpon>
     </Compile>
     <Compile Include="GuessNumber.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="GuessNumberform.resx">
-      <DependentUpon>GuessNumberform.cs</DependentUpon>
+    <EmbeddedResource Include="GuessNumberForm.resx">
+      <DependentUpon>GuessNumberForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -65,6 +65,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -78,6 +79,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\checkmark.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wrongCheckmark.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -1,0 +1,10 @@
+N:\Classes\Sem2-Winter2020\ICS3U Programming\OJohn (s422862)\Unit 3 (Decisions)\GuessNumberJohnO\GuessNumberJohnO\bin\Debug\GuessNumberJohnO.exe.config
+N:\Classes\Sem2-Winter2020\ICS3U Programming\OJohn (s422862)\Unit 3 (Decisions)\GuessNumberJohnO\GuessNumberJohnO\bin\Debug\GuessNumberJohnO.exe
+N:\Classes\Sem2-Winter2020\ICS3U Programming\OJohn (s422862)\Unit 3 (Decisions)\GuessNumberJohnO\GuessNumberJohnO\bin\Debug\GuessNumberJohnO.pdb
+N:\Classes\Sem2-Winter2020\ICS3U Programming\OJohn (s422862)\Unit 3 (Decisions)\GuessNumberJohnO\GuessNumberJohnO\obj\Debug\GuessNumberJohnO.csprojAssemblyReference.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\OJohn (s422862)\Unit 3 (Decisions)\GuessNumberJohnO\GuessNumberJohnO\obj\Debug\GuessNumberJohnO.frmGuessNumber.resources
+N:\Classes\Sem2-Winter2020\ICS3U Programming\OJohn (s422862)\Unit 3 (Decisions)\GuessNumberJohnO\GuessNumberJohnO\obj\Debug\GuessNumberJohnO.Properties.Resources.resources
+N:\Classes\Sem2-Winter2020\ICS3U Programming\OJohn (s422862)\Unit 3 (Decisions)\GuessNumberJohnO\GuessNumberJohnO\obj\Debug\GuessNumberJohnO.csproj.GenerateResource.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\OJohn (s422862)\Unit 3 (Decisions)\GuessNumberJohnO\GuessNumberJohnO\obj\Debug\GuessNumberJohnO.csproj.CoreCompileInputs.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\OJohn (s422862)\Unit 3 (Decisions)\GuessNumberJohnO\GuessNumberJohnO\obj\Debug\GuessNumberJohnO.exe
+N:\Classes\Sem2-Winter2020\ICS3U Programming\OJohn (s422862)\Unit 3 (Decisions)\GuessNumberJohnO\GuessNumberJohnO\obj\Debug\GuessNumberJohnO.pdb
