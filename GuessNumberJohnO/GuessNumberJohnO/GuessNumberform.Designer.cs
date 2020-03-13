@@ -47,7 +47,7 @@
             // 
             // txtGuess
             // 
-            this.txtGuess.Location = new System.Drawing.Point(381, 124);
+            this.txtGuess.Location = new System.Drawing.Point(354, 111);
             this.txtGuess.Name = "txtGuess";
             this.txtGuess.Size = new System.Drawing.Size(100, 20);
             this.txtGuess.TabIndex = 2;
@@ -73,7 +73,7 @@
             // picMark
             // 
             this.picMark.Image = global::GuessNumberJohnO.Properties.Resources.wrongCheckmark;
-            this.picMark.Location = new System.Drawing.Point(513, 105);
+            this.picMark.Location = new System.Drawing.Point(529, 111);
             this.picMark.Name = "picMark";
             this.picMark.Size = new System.Drawing.Size(195, 170);
             this.picMark.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
