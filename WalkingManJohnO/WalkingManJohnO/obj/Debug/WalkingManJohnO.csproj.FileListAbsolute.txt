@@ -1,0 +1,10 @@
+C:\Users\mails\source\repos\WalkingManJohnO\WalkingManJohnO\bin\Debug\WalkingManJohnO.exe.config
+C:\Users\mails\source\repos\WalkingManJohnO\WalkingManJohnO\bin\Debug\WalkingManJohnO.exe
+C:\Users\mails\source\repos\WalkingManJohnO\WalkingManJohnO\bin\Debug\WalkingManJohnO.pdb
+C:\Users\mails\source\repos\WalkingManJohnO\WalkingManJohnO\obj\Debug\WalkingManJohnO.csprojAssemblyReference.cache
+C:\Users\mails\source\repos\WalkingManJohnO\WalkingManJohnO\obj\Debug\WalkingManJohnO.frmWalkingMan.resources
+C:\Users\mails\source\repos\WalkingManJohnO\WalkingManJohnO\obj\Debug\WalkingManJohnO.Properties.Resources.resources
+C:\Users\mails\source\repos\WalkingManJohnO\WalkingManJohnO\obj\Debug\WalkingManJohnO.csproj.GenerateResource.cache
+C:\Users\mails\source\repos\WalkingManJohnO\WalkingManJohnO\obj\Debug\WalkingManJohnO.csproj.CoreCompileInputs.cache
+C:\Users\mails\source\repos\WalkingManJohnO\WalkingManJohnO\obj\Debug\WalkingManJohnO.exe
+C:\Users\mails\source\repos\WalkingManJohnO\WalkingManJohnO\obj\Debug\WalkingManJohnO.pdb
