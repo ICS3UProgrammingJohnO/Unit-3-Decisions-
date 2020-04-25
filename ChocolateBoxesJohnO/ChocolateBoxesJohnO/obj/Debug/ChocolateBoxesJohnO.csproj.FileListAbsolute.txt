@@ -1,0 +1,10 @@
+C:\Users\mails\source\repos\ChocolateBoxesJohnO\ChocolateBoxesJohnO\bin\Debug\ChocolateBoxesJohnO.exe.config
+C:\Users\mails\source\repos\ChocolateBoxesJohnO\ChocolateBoxesJohnO\bin\Debug\ChocolateBoxesJohnO.exe
+C:\Users\mails\source\repos\ChocolateBoxesJohnO\ChocolateBoxesJohnO\bin\Debug\ChocolateBoxesJohnO.pdb
+C:\Users\mails\source\repos\ChocolateBoxesJohnO\ChocolateBoxesJohnO\obj\Debug\ChocolateBoxesJohnO.csprojAssemblyReference.cache
+C:\Users\mails\source\repos\ChocolateBoxesJohnO\ChocolateBoxesJohnO\obj\Debug\ChocolateBoxesJohnO.frmChocolateBoxes.resources
+C:\Users\mails\source\repos\ChocolateBoxesJohnO\ChocolateBoxesJohnO\obj\Debug\ChocolateBoxesJohnO.Properties.Resources.resources
+C:\Users\mails\source\repos\ChocolateBoxesJohnO\ChocolateBoxesJohnO\obj\Debug\ChocolateBoxesJohnO.csproj.GenerateResource.cache
+C:\Users\mails\source\repos\ChocolateBoxesJohnO\ChocolateBoxesJohnO\obj\Debug\ChocolateBoxesJohnO.csproj.CoreCompileInputs.cache
+C:\Users\mails\source\repos\ChocolateBoxesJohnO\ChocolateBoxesJohnO\obj\Debug\ChocolateBoxesJohnO.exe
+C:\Users\mails\source\repos\ChocolateBoxesJohnO\ChocolateBoxesJohnO\obj\Debug\ChocolateBoxesJohnO.pdb
