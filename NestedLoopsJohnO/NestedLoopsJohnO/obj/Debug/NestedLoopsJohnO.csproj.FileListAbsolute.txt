@@ -1,0 +1,10 @@
+C:\Users\mails\source\repos\NestedLoopsJohnO\NestedLoopsJohnO\bin\Debug\NestedLoopsJohnO.exe.config
+C:\Users\mails\source\repos\NestedLoopsJohnO\NestedLoopsJohnO\bin\Debug\NestedLoopsJohnO.exe
+C:\Users\mails\source\repos\NestedLoopsJohnO\NestedLoopsJohnO\bin\Debug\NestedLoopsJohnO.pdb
+C:\Users\mails\source\repos\NestedLoopsJohnO\NestedLoopsJohnO\obj\Debug\NestedLoopsJohnO.csprojAssemblyReference.cache
+C:\Users\mails\source\repos\NestedLoopsJohnO\NestedLoopsJohnO\obj\Debug\NestedLoopsJohnO.frmNestedLoops.resources
+C:\Users\mails\source\repos\NestedLoopsJohnO\NestedLoopsJohnO\obj\Debug\NestedLoopsJohnO.Properties.Resources.resources
+C:\Users\mails\source\repos\NestedLoopsJohnO\NestedLoopsJohnO\obj\Debug\NestedLoopsJohnO.csproj.GenerateResource.cache
+C:\Users\mails\source\repos\NestedLoopsJohnO\NestedLoopsJohnO\obj\Debug\NestedLoopsJohnO.csproj.CoreCompileInputs.cache
+C:\Users\mails\source\repos\NestedLoopsJohnO\NestedLoopsJohnO\obj\Debug\NestedLoopsJohnO.exe
+C:\Users\mails\source\repos\NestedLoopsJohnO\NestedLoopsJohnO\obj\Debug\NestedLoopsJohnO.pdb
