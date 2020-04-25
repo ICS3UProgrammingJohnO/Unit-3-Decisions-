@@ -1,0 +1,10 @@
+C:\Users\mails\source\repos\ForEachControlObjectsJohnO\ForEachControlObjectsJohnO\bin\Debug\ForEachControlObjectsJohnO.exe.config
+C:\Users\mails\source\repos\ForEachControlObjectsJohnO\ForEachControlObjectsJohnO\bin\Debug\ForEachControlObjectsJohnO.exe
+C:\Users\mails\source\repos\ForEachControlObjectsJohnO\ForEachControlObjectsJohnO\bin\Debug\ForEachControlObjectsJohnO.pdb
+C:\Users\mails\source\repos\ForEachControlObjectsJohnO\ForEachControlObjectsJohnO\obj\Debug\ForEachControlObjectsJohnO.csprojAssemblyReference.cache
+C:\Users\mails\source\repos\ForEachControlObjectsJohnO\ForEachControlObjectsJohnO\obj\Debug\ForEachControlObjectsJohnO.frmForEachControl.resources
+C:\Users\mails\source\repos\ForEachControlObjectsJohnO\ForEachControlObjectsJohnO\obj\Debug\ForEachControlObjectsJohnO.Properties.Resources.resources
+C:\Users\mails\source\repos\ForEachControlObjectsJohnO\ForEachControlObjectsJohnO\obj\Debug\ForEachControlObjectsJohnO.csproj.GenerateResource.cache
+C:\Users\mails\source\repos\ForEachControlObjectsJohnO\ForEachControlObjectsJohnO\obj\Debug\ForEachControlObjectsJohnO.csproj.CoreCompileInputs.cache
+C:\Users\mails\source\repos\ForEachControlObjectsJohnO\ForEachControlObjectsJohnO\obj\Debug\ForEachControlObjectsJohnO.exe
+C:\Users\mails\source\repos\ForEachControlObjectsJohnO\ForEachControlObjectsJohnO\obj\Debug\ForEachControlObjectsJohnO.pdb
