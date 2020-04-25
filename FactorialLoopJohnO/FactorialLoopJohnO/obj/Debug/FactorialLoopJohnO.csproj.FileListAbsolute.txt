@@ -1,0 +1,10 @@
+C:\Users\mails\source\repos\FactorialLoopJohnO\FactorialLoopJohnO\bin\Debug\FactorialLoopJohnO.exe.config
+C:\Users\mails\source\repos\FactorialLoopJohnO\FactorialLoopJohnO\bin\Debug\FactorialLoopJohnO.exe
+C:\Users\mails\source\repos\FactorialLoopJohnO\FactorialLoopJohnO\bin\Debug\FactorialLoopJohnO.pdb
+C:\Users\mails\source\repos\FactorialLoopJohnO\FactorialLoopJohnO\obj\Debug\FactorialLoopJohnO.csprojAssemblyReference.cache
+C:\Users\mails\source\repos\FactorialLoopJohnO\FactorialLoopJohnO\obj\Debug\FactorialLoopJohnO.frmFactorialLoop.resources
+C:\Users\mails\source\repos\FactorialLoopJohnO\FactorialLoopJohnO\obj\Debug\FactorialLoopJohnO.Properties.Resources.resources
+C:\Users\mails\source\repos\FactorialLoopJohnO\FactorialLoopJohnO\obj\Debug\FactorialLoopJohnO.csproj.GenerateResource.cache
+C:\Users\mails\source\repos\FactorialLoopJohnO\FactorialLoopJohnO\obj\Debug\FactorialLoopJohnO.csproj.CoreCompileInputs.cache
+C:\Users\mails\source\repos\FactorialLoopJohnO\FactorialLoopJohnO\obj\Debug\FactorialLoopJohnO.exe
+C:\Users\mails\source\repos\FactorialLoopJohnO\FactorialLoopJohnO\obj\Debug\FactorialLoopJohnO.pdb
