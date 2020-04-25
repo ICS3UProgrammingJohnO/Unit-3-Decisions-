@@ -1,0 +1,10 @@
+C:\Users\mails\source\repos\UnicodeJohnO\UnicodeJohnO\bin\Debug\UnicodeJohnO.exe.config
+C:\Users\mails\source\repos\UnicodeJohnO\UnicodeJohnO\bin\Debug\UnicodeJohnO.exe
+C:\Users\mails\source\repos\UnicodeJohnO\UnicodeJohnO\bin\Debug\UnicodeJohnO.pdb
+C:\Users\mails\source\repos\UnicodeJohnO\UnicodeJohnO\obj\Debug\UnicodeJohnO.csprojAssemblyReference.cache
+C:\Users\mails\source\repos\UnicodeJohnO\UnicodeJohnO\obj\Debug\UnicodeJohnO.frmUnicode.resources
+C:\Users\mails\source\repos\UnicodeJohnO\UnicodeJohnO\obj\Debug\UnicodeJohnO.Properties.Resources.resources
+C:\Users\mails\source\repos\UnicodeJohnO\UnicodeJohnO\obj\Debug\UnicodeJohnO.csproj.GenerateResource.cache
+C:\Users\mails\source\repos\UnicodeJohnO\UnicodeJohnO\obj\Debug\UnicodeJohnO.csproj.CoreCompileInputs.cache
+C:\Users\mails\source\repos\UnicodeJohnO\UnicodeJohnO\obj\Debug\UnicodeJohnO.exe
+C:\Users\mails\source\repos\UnicodeJohnO\UnicodeJohnO\obj\Debug\UnicodeJohnO.pdb
